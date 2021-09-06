@@ -21,7 +21,7 @@
 ## My Bio data👇
 | **Nama** |Akhmad Fauzan|
 | **Umur** |15|
-| **Asal** |Jawa Barat|
+| **Asal** |JawaBarat|
 | **Kota** |Cirebon|
 | :---------------------------------------------: | :-----------: |
 
