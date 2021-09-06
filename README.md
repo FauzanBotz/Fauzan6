@@ -19,13 +19,13 @@
 | **IMAGEMAGICK** | [HERE](https://github.com/DuckyTeam/heroku-buildpack-imagemagick) |
 
 ## My Bio data👇
-| **Nama** |Akhmad Fauzan|
+# **Nama** Akhmad Fauzan
 
-| **Umur** |15|
+# **Umur** 15
 
-| **Asal** |JawaBarat|
+# **Asal** JawaBarat
 
-| **Kota** |Cirebon|
+# **Kota** Cirebon
 | :---------------------------------------------: | :-----------: |
 
 ## Connect With Me
