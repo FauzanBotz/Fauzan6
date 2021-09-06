@@ -20,8 +20,11 @@
 
 ## My Bio data👇
 | **Nama** |Akhmad Fauzan|
+
 | **Umur** |15|
+
 | **Asal** |JawaBarat|
+
 | **Kota** |Cirebon|
 | :---------------------------------------------: | :-----------: |
 
